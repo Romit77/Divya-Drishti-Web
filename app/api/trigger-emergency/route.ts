@@ -21,7 +21,7 @@ interface ApiResponse {
 
 function corsHeaders() {
   return {
-    "Access-Control-Allow-Origin": "https://code-clash-bay.vercel.app/",
+    "Access-Control-Allow-Origin": "https://divya-drishti-web.vercel.app/",
     "Access-Control-Allow-Methods": "POST, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type, Accept",
   };
